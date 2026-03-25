@@ -30,7 +30,6 @@ A small number of products generate majority of revenue
 Higher discounts reduce profitability
 Sub-categories like Tables show consistent losses
 
-Dashboard Preview
 ## Dashboard Preview
 ![Dashboard](Dashboard screenshot.png)
 
