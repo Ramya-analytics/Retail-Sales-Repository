@@ -1,6 +1,10 @@
 # Retail Sales Dashboard (Power BI)
 An end-to-end data analytics project analyzing retail sales performance using Power BI, SQL, and Excel.
 
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 ## Overview-
 This project presents an end-to-end retail sales analysis using Power BI. The goal is to analyze business performance, identify key trends, and derive actionable insights.
 
@@ -25,16 +29,13 @@ Profitability by Sub-Category
 Discount Impact Analysis
 
 Key Insights
-Sales show consistent growth over time
-Technology category drives highest revenue but not always profit
-West region contributes the most to total sales
-A small number of products generate majority of revenue
-Higher discounts reduce profitability
-Sub-categories like Tables show consistent losses
+Sales show consistent growth over time, indicating business expansion
+Technology category drives highest revenue but not always profitability
+West region contributes the largest share of total sales
+A small number of products generate a majority of revenue
+Higher discount levels reduce profitability, highlighting pricing inefficiencies
+Sub-categories like Tables show consistent losses despite sales
 
-## Dashboard Preview
-
-![Dashboard](dashboard.png)
 
 ## Conclusion
 This dashboard helps identify revenue drivers, profit leaks, and pricing inefficiencies, enabling better business decisions
