@@ -1,4 +1,5 @@
 # Retail Sales Dashboard (Power BI)
+An end-to-end data analytics project analyzing retail sales performance using Power BI, SQL, and Excel.
 
 ## Overview-
 This project presents an end-to-end retail sales analysis using Power BI. The goal is to analyze business performance, identify key trends, and derive actionable insights.
@@ -9,9 +10,10 @@ Records: ~10,000 transactions
 Fields: Sales, Profit, Discount, Category, Region, Product, Order Date
 
 Tools Used
-Power BI (Dashboard & Visualization)
-Excel (Data Cleaning)
-SQL (Data Analysis)
+- Power BI (Dashboarding, DAX, Data Modeling)
+- SQL (Data Analysis & Querying)
+- Excel (Data Cleaning & Transformation)
+- Data Visualization & Storytelling
 
 Key Features
 KPI Metrics: Total Sales, Profit, Orders
@@ -36,4 +38,10 @@ Sub-categories like Tables show consistent losses
 
 ## Conclusion
 This dashboard helps identify revenue drivers, profit leaks, and pricing inefficiencies, enabling better business decisions
+
+## How to Use
+
+1. Download the `.pbix` file  
+2. Open in Power BI Desktop  
+3. Use filters to explore insights across regions, categories, and products  
 
